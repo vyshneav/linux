@@ -10,7 +10,7 @@ class Employee:
 			return(12000)
 		if self.company  == "Reliance":
 			return(10000)
-Employee1 = Employee("vyshnav",21,"Shell")
+Employee1 = Employee("vyshnavps",21,"Shell")
 Employee2 = Employee("Vishnu",21,"Reliance")
 Employee1.help()
 salary1 = Employee1.show_salary()
