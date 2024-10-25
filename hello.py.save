@@ -1,8 +1,0 @@
-class Employee:
-	def __init__(self,name,age,company):
-		self.name = name
-		self.age = age
-		self.company = company
-	def show_details(self):
-		print(f"hello {self.name}, Your Current Employer is {self.company}  = Employee("vyshnav",21,"Shell")
-student1.help()
